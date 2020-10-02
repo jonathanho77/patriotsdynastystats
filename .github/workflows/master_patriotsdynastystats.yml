@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'patriotsdynastystats'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_583086ebfc0a46b6b604cdc809f01502 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9950b31074c24911b11a806f1b94f069 }}
         package: .
